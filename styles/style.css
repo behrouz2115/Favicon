@@ -1,0 +1,36 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: darkolivegreen;
+}
+p{
+    color: orange;
+    font-size: large;
+}
+.lin{
+    margin-top: 50px;
+}
+.lin a{
+    text-decoration: none;
+    color: orange;
+}
+.lin a:hover{
+    color: #fff;
+}
+.linGit{
+    margin: 20px;
+}
+.linGit a{
+    text-decoration: none;
+    color: orange;
+}
+.linGit a:hover{
+    color: #fff;
+}
